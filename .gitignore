@@ -1,0 +1,65 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Gradle
+.gradle
+build/
+
+# STS
+.springBeans
+
+# IntelliJ IDEA
+.idea
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings
+.springBeans
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+
+# Other files and directories to ignore
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+# JPA files
+*.hprof
+hs_err_pid*
+
+# Log file
+*.log
+
+# NPM
+node_modules/
+
+# Yarn
+yarn.lock
+.yarn-integrity
+
+# Temporary files
+*.swp
+*~
+.DS_Store
